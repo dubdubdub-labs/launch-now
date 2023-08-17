@@ -4,7 +4,8 @@ export default function Home() {
   return (
     <main className="">
       <div>
-        This is a title!
+        <h1> Header </h1>
+        <h3> Subheader </h3>
       </div>
     </main>
   )
